@@ -1,3 +1,5 @@
 myvenv/
 server/alembic.ini
 server/config.py
+.env
+.vercel
